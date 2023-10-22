@@ -1,8 +1,10 @@
-my_list = [input()]
-#number = input()
+my_list = round(input())
+# split()
 
-floats = []
+opposit_list = []
+
 for n in my_list:
-    floats.append(n)
+    opposit_list.append(n)
 
-print(floats)
+num_list = numpy.array(opposit_list)
+print(opposit_list)
