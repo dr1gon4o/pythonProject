@@ -7,10 +7,8 @@ party = Party()
 command = input()
 
 while command != 'End':
+    party.people.append(command)
     command = input()
 
-
-    party.people.append(command)
-
-print(f"Going: {party.people}")
+print(f"Going: {', '.join(party.people)}")
 print(f"Total: {len(party.people)}")
