@@ -22,10 +22,10 @@ for x in list2:
 #     # list.append(i)
 #     if nunu == 0:
 #         break
-#     haha = (i**2) * 2
-#     if haha <= nunu:
-#         list.append(haha)
-#         nunu -= haha
+#     01. Programming Fundamentals Mid Exam Retake = (i**2) * 2
+#     if 01. Programming Fundamentals Mid Exam Retake <= nunu:
+#         list.append(01. Programming Fundamentals Mid Exam Retake)
+#         nunu -= 01. Programming Fundamentals Mid Exam Retake
 
 # print(list)
 # print(list2)

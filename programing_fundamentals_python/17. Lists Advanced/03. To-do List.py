@@ -1,6 +1,6 @@
 my_list = []
 # priority = []
-# haha = []
+# 01. Programming Fundamentals Mid Exam Retake = []
 # haha2 = []
 
 while True:
@@ -16,12 +16,12 @@ while True:
     priority = sorted(my_list, key=lambda x: int(x.split('-')[0]))
     haha3 = [command.split('-')[1] for command in priority]
 
-    # haha.append(command.split('-')[1])
-    # haha2 = sorted(haha, key=lambda x: num)
+    # 01. Programming Fundamentals Mid Exam Retake.append(command.split('-')[1])
+    # haha2 = sorted(01. Programming Fundamentals Mid Exam Retake, key=lambda x: num)
 
 
 # print(my_list)
 # print(priority)
-# print(haha)
+# print(01. Programming Fundamentals Mid Exam Retake)
 print(haha3)
 

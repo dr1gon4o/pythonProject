@@ -1,6 +1,6 @@
 diki = input().split()
 
-# haha = {x for x in diki}
+# 01. Programming Fundamentals Mid Exam Retake = {x for x in diki}
 haha2 = []
 haha3 = {}
 
@@ -21,7 +21,7 @@ for f, g in haha3.items():
 
 
 # print(diki)
-# print(haha)
+# print(01. Programming Fundamentals Mid Exam Retake)
 # print(haha2)
 # print(haha3)
 

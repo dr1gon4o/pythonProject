@@ -2,7 +2,7 @@ my_list = input().split(', ')
 
 haha = sorted(my_list, key=lambda x: (-len(x),(x)))
 
-# haha.reverse()
+# 01. Programming Fundamentals Mid Exam Retake.reverse()
 
 # haha3 = sorted(my_list, key=reversed(my_list))
 

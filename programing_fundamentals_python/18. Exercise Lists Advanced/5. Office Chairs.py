@@ -1,6 +1,6 @@
 num = int(input())
 
-# haha = []
+# 01. Programming Fundamentals Mid Exam Retake = []
 hoho = 0
 alert = 0
 
@@ -19,8 +19,8 @@ for i in range(1, num +1):
 
 
 
-    # haha.append(list)
+    # 01. Programming Fundamentals Mid Exam Retake.append(list)
 
-# print(haha)
+# print(01. Programming Fundamentals Mid Exam Retake)
 if alert == num:
     print(f"Game On, {hoho} free chairs left")

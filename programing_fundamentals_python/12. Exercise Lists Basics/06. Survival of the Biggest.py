@@ -14,21 +14,21 @@ haha2 = ', '.join(str(x) for x in haha)
 # list.remove(min(list))
 # list.remove(min(list))
 
-# print(haha)
+# print(01. Programming Fundamentals Mid Exam Retake)
 print(haha2)
 # print(list)
 # print(list.sort())
-# print(haha)
+# print(01. Programming Fundamentals Mid Exam Retake)
 # # print(haha2)
-# print(', '.join(haha))
+# print(', '.join(01. Programming Fundamentals Mid Exam Retake))
 
 
 # for i in range(-1, count):
 #     list_string.remove(min(list_string))
 
-# haha = int(list)
+# 01. Programming Fundamentals Mid Exam Retake = int(list)
 # for k in list:
-#     haha = list.remove(min(list))
+#     01. Programming Fundamentals Mid Exam Retake = list.remove(min(list))
 
 # for i in range(count):
 #     list.remove(min(list))

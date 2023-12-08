@@ -17,16 +17,16 @@ for i in haha:
 
     if hoho.replace('_', ' ') in i['course']:
         print(i['name'], "-", i['ID'])
-    # if hoho in haha['course'][0:3]:
+    # if hoho in 01. Programming Fundamentals Mid Exam Retake['course'][0:3]:
     #     print(f'"{name} - {ID}"')
 
 # vtori variant !
-# for i in haha:
+# for i in 01. Programming Fundamentals Mid Exam Retake:
 #     if hoho.startswith(i['course'][0:3]):
 #         print(f"{i['name']} - {i['ID']}")
 
 
-# print(haha)
+# print(01. Programming Fundamentals Mid Exam Retake)
 # print(haha2)
 # print(hoho)
 

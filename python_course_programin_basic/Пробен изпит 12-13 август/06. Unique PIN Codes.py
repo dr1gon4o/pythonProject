@@ -17,7 +17,7 @@ for i in range(1, x + 1):
             haha = f"{i}{l}{j}"
             print(haha, end=' ')
             print()
-            # haha = f"{i}{l}{j}"
+            # 01. Programming Fundamentals Mid Exam Retake = f"{i}{l}{j}"
 
 # print(i,l,j)
 # print()

@@ -3,7 +3,7 @@
 # list2 = [int(x) for x in list]
 list2 = [int(x) for x in input().split(', ')]
 
-# haha = sorted(list2)
+# 01. Programming Fundamentals Mid Exam Retake = sorted(list2)
 # list3 = []
 # list4 = []
 gr = 10
@@ -26,7 +26,7 @@ while list2:
 # print(list2)
 # print(list3)
 # print(list4)
-# print(haha)
+# print(01. Programming Fundamentals Mid Exam Retake)
 # print(sorted(list2))
 # print(max(list))
 # print(max(list2))

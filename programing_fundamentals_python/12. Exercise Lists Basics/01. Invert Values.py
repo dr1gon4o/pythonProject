@@ -11,4 +11,4 @@ print(opposit_list)
 
 
 #vtori variat
-# print([-int(haha) for n in input().split()])
+# print([-int(01. Programming Fundamentals Mid Exam Retake) for n in input().split()])

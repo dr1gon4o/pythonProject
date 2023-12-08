@@ -11,9 +11,9 @@ class Inventory:
             return "not enough room in the inventory"
         self.items.append(item)
         self.haha -= 1
-        # if len(self.items) < self.haha:
+        # if len(self.items) < self.01. Programming Fundamentals Mid Exam Retake:
         #     self.items.append(item)
-        #     self.haha -= 1
+        #     self.01. Programming Fundamentals Mid Exam Retake -= 1
         # else:
         #     return "not enough room in the inventory"
 

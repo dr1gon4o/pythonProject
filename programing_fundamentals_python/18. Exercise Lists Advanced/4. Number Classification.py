@@ -30,7 +30,7 @@ print(f"Odd: {', '.join(map(str, od))}")
 # od = [int(x) for x in list if x % 2 != 0]
 
 # print(list)
-# print(haha)
+# print(01. Programming Fundamentals Mid Exam Retake)
 # print(f"Negative: {po}")
 # print(f"Negative: {ne}")
 # print(f"Even: {ev}")

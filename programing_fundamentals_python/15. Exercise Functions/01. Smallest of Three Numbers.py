@@ -6,10 +6,10 @@ for x in range(3):
 
 haha.sort(reverse=True)
 
-# for i in haha:
-#     haha.pop(min(haha))
+# for i in 01. Programming Fundamentals Mid Exam Retake:
+#     01. Programming Fundamentals Mid Exam Retake.pop(min(01. Programming Fundamentals Mid Exam Retake))
 
-# haha2 = [haha.pop(min(int(x))) for x in haha]
-# print(haha)
+# haha2 = [01. Programming Fundamentals Mid Exam Retake.pop(min(int(x))) for x in 01. Programming Fundamentals Mid Exam Retake]
+# print(01. Programming Fundamentals Mid Exam Retake)
 # print(haha2)
 print(haha.pop())
