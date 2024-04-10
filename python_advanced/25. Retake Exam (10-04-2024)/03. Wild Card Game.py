@@ -21,7 +21,19 @@ def draw_cards(*haha, **haha2):
     monsters.sort(reverse=True)
     spells.sort()
 
-    # result = []
+    result = []
+    if monsters:
+        result.append("Monster cards:")
+        for card in monsters:
+            result.append(f"  ***{card}")
+    if spells:
+        result.append("Spell cards:")
+        for card in spells:
+            result.append(f"  $$$${card}")
+
+    return "\n".join(result)
+
+    # result = ""
     # if monsters:
     #     result.append("Monster cards:")
     #     for card in monsters:
@@ -31,13 +43,11 @@ def draw_cards(*haha, **haha2):
     #     for card in spells:
     #         result.append(f"  $$$${card}")
     #
-    # return "\n".join(result)
+    # return "\n".join(result
 
 
-
-
-print(draw_cards(("cyber dragon", "monster"), freeze="spell",))
-# print(draw_cards(("celtic guardian", "monster"), ("earthquake", "spell"), ("fireball", "spell"), raigeki="spell", destroy="spell",))
+# print(draw_cards(("cyber dragon", "monster"), freeze="spell",))
+print(draw_cards(("celtic guardian", "monster"), ("earthquake", "spell"), ("fireball", "spell"), raigeki="spell", destroy="spell",))
 
 # print(draw_cards(("celtic guardian", "monster"), ("earthquake", "spell"), ("fireball", "spell"), raigeki="spell", destroy="spell",))
 # result = ""
